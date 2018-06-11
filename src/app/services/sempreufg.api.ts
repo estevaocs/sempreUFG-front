@@ -1,0 +1,1 @@
+export const SEMPRE_UFG_API: string = 'http://localhost:8080';
